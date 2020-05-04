@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript",
+    ".gitmodules": "gitconfig",
+    "*.vue": "vue",
+    "libsig.h": "c",
+    "dbg_sig.h": "c",
+    "sig_algs.h": "c",
+    "ec_key.h": "c",
+    "secp256k1.c": "cpp",
+    "libec.h": "c",
+    "lib_ecc_config.h": "c"
+  }
+}
