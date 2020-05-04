@@ -3,8 +3,12 @@
 CKB secp256r1 lock.
 
 
-## Build
+## Quick Start
 
-``` sh
-make all-via-docker && cargo test
+```
+git submodule init
+git submodule update
+make install-tools
+make all-via-docker
+cargo test --all
 ```
